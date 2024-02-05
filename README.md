@@ -1,2 +1,2 @@
 # JOKENPO
-Jogo JO-KEN-PO 
+Jogo JO-KEN-PO!
