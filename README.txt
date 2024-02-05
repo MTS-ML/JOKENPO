@@ -1,1 +1,0 @@
-Jogo JO-KEN-PO com menu e cores.
